@@ -1,5 +1,5 @@
 # EDA_HOTEL_BOOKING_ANALYSIS
-HOTEL_BOOKING_ANALYSIS_EDA
+
 The hotel industry is subdivision of the hospitality industry that specializes in providing customers with lodging services. There are a variety of hotel types that typically can be categorized by size, function, service, and cost. Levels of service can usually be split into three options: limited-service, mid-range service, and full-service. A hotel booking Dataset of 119390 entries was given to perform Exploratory Data Analysis (EDA)to analyse and find solutions from hotel business prespective.
 
 The first step was to import and understand the data. Before importing the data, all the necessary libraries such as Numpy, Pandas, Matplotlib & Seaborn were imported. The data was imported under the variable name df and first 5 rows were viewed to comprehend the data. To understand each variable, the data type was checked for each variable.
